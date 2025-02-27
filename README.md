@@ -55,4 +55,3 @@ Performance:
 - Machine Learning can effectively predict heart attacks based on patient data.
 - Gradient Boosting and SVC showed the best performance.
 - More data and feature engineering could improve model accuracy further.
--
